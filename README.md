@@ -18,7 +18,7 @@ Model is versioned and can be registered for deployment
 
    you will get url : http://127.0.0.1:5000
 
-6. Run the each shell of the notebook
+6. Run the each Cell of the notebook
 
 # 📊 MLflow Logging Details
 Here’s what gets logged to MLflow for each experiment:
